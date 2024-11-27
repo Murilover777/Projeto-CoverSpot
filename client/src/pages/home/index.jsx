@@ -209,7 +209,7 @@ export default function HomePage() {
                     <h2 className="text-gray-900 title-font font-medium">
                       Isaac
                     </h2>
-                    <p className="text-gray-500">Banco de Dados</p>
+                    <p className="text-gray-500"></p>
                   </div>
                 </div>
               </div>
@@ -220,7 +220,7 @@ export default function HomePage() {
                     <h2 className="text-gray-900 title-font font-medium">
                       Arthur Botelho
                     </h2>
-                    <p className="text-gray-500"></p>
+                    <p className="text-gray-500">Banco de Dados</p>
                   </div>
                 </div>
               </div>
